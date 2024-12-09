@@ -4,7 +4,7 @@ This is the project made for internship in AICTE Internship on AI: Transformativ
 
 mentor name is - Abdul Aziz Md
 
-How to run the project:
+#How to run the project:
 
 first open the folder/ download the zip file the unzip it then open the folder
 open the new_app
