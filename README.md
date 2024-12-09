@@ -1,4 +1,4 @@
-# Implementation-of-ML-model-for-image-classification-by-bhanu
+# Implementation-of-ML-model-for-image-classification-by-Sanaullah
 This is the project made for internship in AICTE Internship on AI: Transformative Learning with TechSaksham – A joint CSR initiative of Microsoft & SAP
 
 mentor name is -  Abdul Aziz Md
